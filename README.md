@@ -2,14 +2,14 @@
 O seguinte repositório tem como propósito expor os dados apresentados na cadeira de Visualização de Dados.
 
 
-**Instalação**
+## Instalação
 
-Instalando com npm
+**Instalando com npm**
 --------------------
 ```
 npm install
 ```
-Instalando com yarn
+**Instalando com yarn**
 --------------------
 ```
 yarn install
@@ -17,15 +17,15 @@ yarn install
 
 
 
-**Executando o projeto**
+## Executando o projeto
 
-Executando com npm
+**Executando com npm**
 --------------------
 ```
 npm start
 ```
 
-Executando com yarn
+**Executando com yarn**
 --------------------
 ```
 yarn start
