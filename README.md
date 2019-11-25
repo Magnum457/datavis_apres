@@ -23,7 +23,7 @@ Executando com npm
 --------------------
 ```
 npm start
-
+```
 
 Executando com yarn
 --------------------
