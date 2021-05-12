@@ -48,7 +48,7 @@
     "@magnum457/quantidade-de-bolsas-fora-do-brasil": "https://api.observablehq.com/@magnum457/quantidade-de-bolsas-fora-do-brasil.tgz?v=3",
     "@observablehq/runtime": "4",
     "@sayonarasantos/h1": "https://api.observablehq.com/@sayonarasantos/h1.tgz?v=3",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "d3": "^5.14.2",
     "moment": "2.24.0",
